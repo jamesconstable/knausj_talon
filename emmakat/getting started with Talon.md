@@ -8,7 +8,7 @@ Check the pinned messages for the latest download for your OS (mac, linux, windo
 
 You will need a copy of the https://github.com/knausj85/knausj_talon repo. Git clone (or just download and unzip) into your user directory. If you've done this step correctly, you will see the users/yourusername/.talon/user folder and the knausj_talon within it (there will be subfolders like apps, code, lang, misc, etc).  
 
-Next, look again in the pinned files of the beta channel, find the instructions and URL to download Wav2letter and extract it into .talon if done correctly, the folder structure should have these additional files:  
+Next, look again in the pinned files of the beta channel, find the instructions and URL to download Wav2letter and extract it into .talon directory. If done correctly, the folder structure should have these additional files:  
 
 ~/.talon/w2l/en_US  
 ~/.talon/user/w2l.py  
