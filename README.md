@@ -1,3 +1,4 @@
+Test
 # knausj_talon
 
 Talon configs for Mac, Windows, and Linux. Very much in progress. This is also intended to work with both Dragon Naturally Speaking and wav2letter.
