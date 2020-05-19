@@ -1,6 +1,8 @@
 
 # Forked from https://github.com/knausj85/knausj_talon
-see devbranch for my changes (added notify.py, a list of commands, commented out "paste that", and changed "paste match" to "paste it") in misc/standard.talon
+see devbranch for my changes 
+https://github.com/emmakat/knausj_talon/tree/devbranch/emmakat  
+(added notify.py, a list of commands, commented out "paste that", and changed "paste match" to "paste it") in misc/standard.talon
 
 Talon configs for Mac, Windows, and Linux. Very much in progress. This is also intended to work with both Dragon Naturally Speaking and wav2letter.
 
