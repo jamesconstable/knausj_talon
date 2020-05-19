@@ -1,4 +1,4 @@
-##Talon is an awesome project that will allow you to use voice dication, Tobii eye tracker, and even write code. This is a tipsheet to get started with the beta (paid) version. These instructions do not apply to the free version!  
+## Talon is an awesome project that will allow you to use voice dication, Tobii eye tracker, and even write code. This is a tipsheet to get started with the beta (paid) version. These instructions do not apply to the free version!  
 
 First, sign up for the beta ($15 USD) at https://www.patreon.com/join/lunixbochs (create a patreon account if you don't already have one)  
 
