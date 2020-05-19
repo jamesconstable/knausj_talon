@@ -4,7 +4,7 @@ First, sign up for the beta ($15 USD) at https://www.patreon.com/join/lunixbochs
 
 Next, join the Slack workspace talonvoice.slack.com. Then, send a direct message to @aegis to let him know you've signed up for the beta program. He'll add you to the beta channel.  
 
-Check the pinned messages for the latest download for your OS (mac, linux, windows). For mac, download the dmg file and install it. You'll now have a new directory called .talon (hidden) in your user's home directory. 
+Check the pinned messages for the latest download for your OS (mac, linux, windows). For mac, download the dmg file, then double click to run it, you'll be prompted to copy it into your Applications folder. From there, you can run the program, after which you'll now have a new directory called .talon (hidden) in your user's home directory. 
 
 You will need a copy of the https://github.com/knausj85/knausj_talon repo. Git clone (or just download and unzip) into your user directory. So now you'll have users/username/.talon/user folder and the knausj_talon within it (there will be subfolders like apps, code, lang, misc, etc).  
 
