@@ -11,6 +11,11 @@ You will need a copy of the https://github.com/knausj85/knausj_talon repo. Git c
 Next, again in the pinned files of the beta channel, find the instructions and URL to download Wav2letter and extract it into .talon if done correctly, the folder structure should have these additional files:  
 
 ~/.talon/w2l/en_US  
-~/.talon/user/w2l.py
+~/.talon/user/w2l.py  
 
+Next, checkout this list of getting started commands: https://github.com/emmakat/knausj_talon/blob/devbranch/emmakat/list%20of%20commands.md  
+
+If you'd like a notification to show you what Talon is hearing you say, add this notify.py somewhere in your user directory (anywhere in there is fine) https://github.com/emmakat/knausj_talon/blob/devbranch/emmakat/notify.py
+
+Get a good microphone (if you have only bluetooth, you're going to have a bad time). Join the hardware channel to see what others have recommended.
 
